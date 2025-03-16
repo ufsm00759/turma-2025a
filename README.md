@@ -121,9 +121,9 @@
 
 ### Outros
 
-- [Planilha com lista de revistas e eventos de extensão](https://docs.google.com/spreadsheets/d/1BHlCeoz_WOir3yhDYiU-G3OIkdN8kPEACmcUn9wZOno/edit?usp=sharing)
+- [Planilha com lista de revistas e eventos de extensão](https://docs.google.com/spreadsheets/d/1BHlCeoz_WOir3yhDYiU-G3OIkdN8kPEACmcUn9wZOno/edit?usp=sharing) - quem pode ajudar a refinar esta planilha?
+  
 - [Portal de Projetos da UFSM](https://portal.ufsm.br/projetos/publico/projetos/list.html)
  
-- [42ª SEURS: UFSM participa do evento com 28 trabalhos extensionistas](https://www.ufsm.br/pro-reitorias/pre/2024/09/11/42a-seurs-ufsm-participa-do-evento-com-28-trabalhos-extensionistas
-)
+- [42ª SEURS: UFSM participa do evento com 28 trabalhos extensionistas](https://www.ufsm.br/pro-reitorias/pre/2024/09/11/42a-seurs-ufsm-participa-do-evento-com-28-trabalhos-extensionistas)
 <p align="right">(<a href="#readme-top">início</a>)</p>
