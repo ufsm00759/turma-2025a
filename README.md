@@ -65,7 +65,7 @@
 <td>Qua</td>
 <td><ul>
 <li>Apresentação de experiência pessoal prévia em extensão: Rafael, Thalisson, Francisco, Laura, Tiago, Samuel, Mariana, Enzo</li>
-<li>Apresentação de uma ação de extensão publicada: Andrei, Anthony, André, Luan, João Vitor, Arthur, Daniel, Rodrigo, Guilherme</li>
+<li>Apresentação de uma ação de extensão de "terceiros" (em andamento ou publicada): Andrei, Anthony, André, Luan, João Vitor, Arthur, Daniel, Rodrigo, Guilherme</li>
 </ul></td>
 </tr>
 
