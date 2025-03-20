@@ -64,11 +64,19 @@
 <td>19/03/2025</td>
 <td>Qua</td>
 <td><ul>
-<li>Apresentação de experiência pessoal prévia em extensão: Rafael, Thalisson, Francisco, Laura, Tiago, Samuel, Mariana, Enzo</li>
-<li>Apresentação de uma ação de extensão publicada: Andrei, Anthony, André, Luan, João Vitor, Arthur, Daniel, Rodrigo, Guilherme</li>
+<li>Apresentação de experiência pessoal prévia em extensão: Rafael, Thalisson, Francisco, Laura, Tiago, Samuel, Mariana, Enzo (<a href="classes/02">fotos</a>)</li>
+<li>Apresentação de uma ação de extensão publicada: Andrei, Anthony, André, Luan, João Vitor, Arthur, Daniel, Guilherme (<a href="classes/02">fotos</a>)</li>
 </ul></td>
 </tr>
 
+<tr>
+<td align="right">4</td>
+<td>21/03/2025</td>
+<td>Sex</td>
+<td><ul>
+<li>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/orgaos-suplementares/jardim-botanico">Jardim Botânico</a></li>
+</ul></td>
+</tr>
 
 </tbody>
 </table>
