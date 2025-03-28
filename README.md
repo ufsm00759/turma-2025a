@@ -43,6 +43,7 @@
 <td>12/03/2025</td>
 <td>Qua</td>
 <td><ul>
+<li> </li>
 <li>Dinâmica de acolhimento da turma (<a href="classes/01">fotos</a>)</li>
 <li>Perguntas e respostas sobre a disciplina e o plano de ensino</li>
 </ul></td>
@@ -74,9 +75,50 @@
 <td>21/03/2025</td>
 <td>Sex</td>
 <td><ul>
-<li>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/orgaos-suplementares/jardim-botanico">Jardim Botânico</a></li>
+<li>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/orgaos-suplementares/jardim-botanico">Jardim Botânico</a> (<a href="classes/04">saiba mais</a>)</li>
 </ul></td>
 </tr>
+
+<tr>
+<td align="right">5</td>
+<td>26/03/2025</td>
+<td>Qua</td>
+<td><ul>
+<li>Discussão sobre a visita realizada, sobre oportunidades extensionistas em geral e suas relações com diretrizes da extensão universitária, sobre processos/etapas das ações extensionistas e sobre registros coletivos e individuais das atividades e descobertas realizadas. (<a href="classes/05">fotos</a>)</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">6</td>
+<td>28/03/2025</td>
+<td>Sex</td>
+<td><ul>
+<li>Registros coletivos e individuais das atividades e descobertas realizadas.</li>
+<li>Link para criação repositório no GitHub Classroom: <a href="https://classroom.github.com/a/_0CyP1a0">https://classroom.github.com/a/_0CyP1a0</a></li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">7</td>
+<td>01/04/2025</td>
+<td>Qua</td>
+<td><ul>
+<li>Computação na Educação Básica: BNCC Computação</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">8</td>
+<td>04/04/2025</td>
+<td>Sex</td>
+<td><ul>
+
+<li>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/pro-reitorias/pre/incubadora-social">Hub de Inovação Social / Incubadora Social UFSM</a></li>
+</ul></td>
+</tr>
+
 
 </tbody>
 </table>
@@ -126,6 +168,13 @@
 - MELO, A. M.; MELLO, A. V; KREUTZ, D.; BERNARDINO, M. Curricularização da Extensão Universitária em Cursos de Computação: experiências e possibilidades. In: SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO (EDUCOMP), 3. , 2023. Anais […]. Porto Alegre: Sociedade Brasileira de Computação, 2023a. p. 289-299. DOI: https://doi.org/10.5753/educomp.2023.228340
 
 - LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional. Santa Maria: FACOS-UFSM, 2023. Disponível em: https://www.ufsm.br/editoras/facos/extensao-universitaria-gestao-comunicacao-e-desenvolvimento-regional
+
+
+### Computação na Educação Básica
+
+- Ministério da Educação. Base Nacional Comum Curricular. http://bncc.mec.gov.br/
+- Computação na Educação Básica: Complemento à BNCC. https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf
+- BNCC em tabela: https://docs.google.com/spreadsheets/d/1sPyUaPHLMaEbIqmOcbTPN5_zaqOqPlsx7Cn0TCbWRDI/edit?usp=sharing
 
 ### Outros
 
