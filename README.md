@@ -43,7 +43,7 @@
 <td>12/03/2025</td>
 <td>Qua</td>
 <td><ul>
-<li> </li>
+<li>Formulário pré DCG Extensionista: <a href="https://forms.gle/nas43VvHmgSafBnq5">https://forms.gle/nas43VvHmgSafBnq5</a></li>
 <li>Dinâmica de acolhimento da turma (<a href="classes/01">fotos</a>)</li>
 <li>Perguntas e respostas sobre a disciplina e o plano de ensino</li>
 </ul></td>
