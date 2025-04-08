@@ -101,7 +101,7 @@
 
 <tr>
 <td align="right">7</td>
-<td>01/04/2025</td>
+<td>02/04/2025</td>
 <td>Qua</td>
 <td><ul>
 <li>Computação na Educação Básica: BNCC Computação</li>
