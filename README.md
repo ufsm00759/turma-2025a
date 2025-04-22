@@ -110,12 +110,72 @@
 
 
 <tr>
+<td align="right"><del>8</del></td>
+<td><del>04/04/2025</del></td>
+<td><del>Sex</del></td>
+<td><ul>
+
+<li><del>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/pro-reitorias/pre/incubadora-social">Hub de Inovação Social / Incubadora Social UFSM</a></del> (cancelada devido à suspensão de atividades da UFSM)</li>
+</ul></td>
+</tr>
+
+
+
+<tr>
 <td align="right">8</td>
-<td>04/04/2025</td>
+<td>09/04/2025</td>
+<td>Qua</td>
+<td><ul>
+
+<li>Distribuição da turma em 3 grupos: Jardim Botânico, BNCC Computação e Exploratório (<a href="classes/08">fotos</a>)</li>
+</ul></td>
+</tr>
+
+
+
+
+<tr>
+<td align="right">9</td>
+<td>11/04/2025</td>
 <td>Sex</td>
 <td><ul>
 
-<li>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/pro-reitorias/pre/incubadora-social">Hub de Inovação Social / Incubadora Social UFSM</a></li>
+<li>Reuniões separadas com os 3 grupos: Exploratório, BNCC Computação e Jardim Botânico</li>
+</ul></td>
+</tr>
+
+
+
+<tr>
+<td align="right">10</td>
+<td>16/04/2025</td>
+<td>Qua</td>
+<td><ul>
+
+<li>Reuniões separadas com os 3 grupos: BNCC Computação (10h), Jardim Botânico (na sede do JB, 10h30) e Exploratório (11h30)</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">11</td>
+<td>23/04/2025</td>
+<td>Qua</td>
+<td><ul>
+
+<li>Reunião com grupo Exploratório no Setor de Apoio Pedagógico do CT (10h30). Reunião com sub-grupo do Jardim Botânico (11h30)</li>
+</ul></td>
+</tr>
+
+
+
+<tr>
+<td align="right">12</td>
+<td>25/04/2025</td>
+<td>Sex</td>
+<td><ul>
+
+<li>Reunião do grupo BNCC Computação (13h30) e com sub-grupo do Jardim Botânico (14h30)</li>
 </ul></td>
 </tr>
 
