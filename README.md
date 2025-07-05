@@ -4,9 +4,11 @@
   <h1 align="center">Práticas Extensionistas na Educação em Computação</h1>
   <h3 align="center">Primeiro semestre de 2025</h3>
   <p align="center">
-    Mais do que um requisito curricular: formação de excelência com impacto ao seu redor!
+    Mais do que um requisito curricular: formação de excelência com impacto além da sala de aula!
     <br />
     <a href="#sobre-a-disciplina">Sobre a disciplina</a>
+    ·
+    <a href="#resultados">Resultados</a>
     ·
     <a href="#aulas">Aulas</a>
     ·
@@ -32,16 +34,20 @@
 
 <p align="right">(<a href="#readme-top">início</a>)</p>
 
+## Resultados
+
+Veja [aqui](results) as produções individuais e coletivas da turma.
 
 ## Aulas
 
 
 
-<table class="table table-bordered table-hover table-condensed"><thead><tr><th title="Field #0">Aula</th><th title="Field #1">Data</th><th title="Field #2">Dia</th><th title="Field #3">Assunto/Atividade</th></tr></thead><tbody>
+<table class="table table-bordered table-hover table-condensed"><thead><tr><th title="Field #0">Aula</th><th title="Field #1">Data</th><th title="Field #2">Dia</th><th title="Field #3">CH</th><th title="Field #4">Assunto/Atividade</th></tr></thead><tbody>
 <tr>
 <td align="right">1</td>
 <td>12/03/2025</td>
 <td>Qua</td>
+<td>2</td>
 <td><ul>
 <li>Formulário pré DCG Extensionista: <a href="https://forms.gle/nas43VvHmgSafBnq5">https://forms.gle/nas43VvHmgSafBnq5</a></li>
 <li>Dinâmica de acolhimento da turma (<a href="classes/01">fotos</a>)</li>
@@ -53,6 +59,7 @@
 <td align="right">2</td>
 <td>14/03/2025</td>
 <td>Sex</td>
+<td>2</td>
 <td><ul>
 <li>Dinâmica de acolhimento de novos matriculados (<a href="classes/02">fotos</a>)</li>
 <li>Apresentação e discussão do livro <a href="LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional. Santa Maria: FACOS-UFSM, 2023.">LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional. Santa Maria: FACOS-UFSM, 2023.</a> (Laura e Daniel)</li>
@@ -64,6 +71,7 @@
 <td align="right">3</td>
 <td>19/03/2025</td>
 <td>Qua</td>
+<td>2</td>
 <td><ul>
 <li>Apresentação de experiência pessoal prévia em extensão: Rafael, Thalisson, Francisco, Laura, Tiago, Samuel, Mariana, Enzo (<a href="classes/02">fotos</a>)</li>
 <li>Apresentação de uma ação de extensão publicada: Andrei, Anthony, André, Luan, João Vitor, Arthur, Daniel, Guilherme (<a href="classes/02">fotos</a>)</li>
@@ -74,6 +82,7 @@
 <td align="right">4</td>
 <td>21/03/2025</td>
 <td>Sex</td>
+<td>2</td>
 <td><ul>
 <li>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/orgaos-suplementares/jardim-botanico">Jardim Botânico</a> (<a href="classes/04">saiba mais</a>)</li>
 </ul></td>
@@ -83,6 +92,7 @@
 <td align="right">5</td>
 <td>26/03/2025</td>
 <td>Qua</td>
+<td>2</td>
 <td><ul>
 <li>Discussão sobre a visita realizada, sobre oportunidades extensionistas em geral e suas relações com diretrizes da extensão universitária, sobre processos/etapas das ações extensionistas e sobre registros coletivos e individuais das atividades e descobertas realizadas. (<a href="classes/05">fotos</a>)</li>
 </ul></td>
@@ -92,6 +102,7 @@
 <td align="right">6</td>
 <td>28/03/2025</td>
 <td>Sex</td>
+<td>2</td>
 <td><ul>
 <li>Registros coletivos e individuais das atividades e descobertas realizadas.</li>
 <li>Link para criação repositório no GitHub Classroom: <a href="https://classroom.github.com/a/_0CyP1a0">https://classroom.github.com/a/_0CyP1a0</a></li>
@@ -103,6 +114,7 @@
 <td align="right">7</td>
 <td>02/04/2025</td>
 <td>Qua</td>
+<td>2</td>
 <td><ul>
 <li>Computação na Educação Básica: BNCC Computação</li>
 </ul></td>
@@ -113,6 +125,7 @@
 <td align="right"><del>8</del></td>
 <td><del>04/04/2025</del></td>
 <td><del>Sex</del></td>
+<td><del>2</del></td>
 <td><ul>
 
 <li><del>Visita a uma subunidade da UFSM direcionada ao atendimento do público externo: <a href="https://www.ufsm.br/pro-reitorias/pre/incubadora-social">Hub de Inovação Social / Incubadora Social UFSM</a></del> (cancelada devido à suspensão de atividades da UFSM)</li>
@@ -125,6 +138,7 @@
 <td align="right">8</td>
 <td>09/04/2025</td>
 <td>Qua</td>
+<td>2</td>
 <td><ul>
 
 <li>Distribuição da turma em 3 grupos: Jardim Botânico, BNCC Computação e Exploratório (<a href="classes/08">fotos</a>)</li>
@@ -138,6 +152,7 @@
 <td align="right">9</td>
 <td>11/04/2025</td>
 <td>Sex</td>
+<td>2</td>
 <td><ul>
 
 <li>Reuniões separadas com os 3 grupos: Exploratório, BNCC Computação e Jardim Botânico</li>
@@ -150,6 +165,7 @@
 <td align="right">10</td>
 <td>16/04/2025</td>
 <td>Qua</td>
+<td>2</td>
 <td><ul>
 
 <li>Reuniões separadas com os 3 grupos: BNCC Computação (10h), Jardim Botânico (na sede do JB, 10h30) e Exploratório (11h30)</li>
@@ -161,6 +177,7 @@
 <td align="right">11</td>
 <td>23/04/2025</td>
 <td>Qua</td>
+<td>2</td>
 <td><ul>
 
 <li>Reunião com grupo Exploratório no Setor de Apoio Pedagógico do CT (10h30). Reunião com sub-grupo do Jardim Botânico (11h30)</li>
@@ -173,11 +190,158 @@
 <td align="right">12</td>
 <td>25/04/2025</td>
 <td>Sex</td>
+<td>2</td>
 <td><ul>
 
 <li>Reunião do grupo BNCC Computação (13h30) e com sub-grupo do Jardim Botânico (14h30)</li>
 </ul></td>
 </tr>
+
+
+
+<tr>
+<td align="right">13</td>
+<td>30/04/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões com os grupos: (1) BNCC Computação (2) Organização e bem-estar (3) Jardim Botânico.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">14</td>
+<td>07/05/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões com os grupos: (1) Organização e bem-estar (2) Jardim Botânico (3) BNCC Computação.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">15</td>
+<td>09/05/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Reunião com o grupo: (1) Jardim Botânico (meet pela manhã com Direção do JB) (2) Organização e bem-estar (CAED, Educação e Saúde).</li>
+<li> Grupo BNCC Computação desenvolvendo atividades para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">16</td>
+<td>14/05/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões com os grupos: (1) Jardim Botânico (2) Organização e bem-estar.</li>
+<li> Grupo BNCC Computação desenvolvendo atividade para próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">17</td>
+<td>16/05/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Reunião com o grupo BNCC Computação (NTEM).</li>
+<li> Demais grupos desenvolvendo atividades para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">18</td>
+<td>21/05/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões com os grupos: (1) Organização e bem-estar (Setor de Comunicação CT) (2) Jardim Botânico.</li>
+<li> Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">19</td>
+<td>23/05/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões com os grupos: (1) Organização e bem-estar (2) BNCC Computação.</li>
+<li> Grupo Jardim Botânico desenvolvendo atividade para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">20</td>
+<td>28/05/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões com os grupos: (1) Jardim Botânico (3 subgrupos) (2) Organização e bem-estar.</li>
+<li> Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">21</td>
+<td>30/05/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Reunião com o grupo: BNCC Computação.</li>
+<li> Demais grupos desenvolvendo atividades da próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">22</td>
+<td>04/06/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões com os grupos: (1) Organização e bem-estar (2) Jardim Botânico (3 subgrupos).</li>
+<li> Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">23</td>
+<td>06/06/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Reunião com o grupo: BNCC Computação.</li>
+<li> Demais grupos desenvolvendo atividades da próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">24</td>
+<td>11/06/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reunião com o grupo: Organização e bem-estar (preparatória de manhã, evento à noite).</li>
+<li> Demais grupos desenvolvendo atividades para as próximas entregas.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">25</td>
+<td>13/06/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Reunões com os grupos: (1) Jardim Botânico (manhã, no JB) (2) BNCC Computação (tarde).</li>
+<li> Grupo Organização e bem-estar desenvolvendo atividade para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+
+
 
 
 </tbody>
@@ -191,15 +355,8 @@
 
 ## Avaliações
 
-- A avaliação irá considerar a produção individual/coletiva dos estudantes (80%) e registros individuais de frequência
-(20%).
-- Para cada produção, serão definidas rubricas de avaliação.
-- Os resultados serão apresentados e discutidos em 2 ciclos avaliativos previstos no cronograma da disciplina:
-
-  - Primeiro ciclo: 23 e 25/04/2025
-  - Segundo ciclo: 20 e 25/06/2025
-
-- Avaliação final (exame): 04/07/2025
+- A avaliação é contínua e leva em consideração a produção individual e coletiva dos estudantes, em entregas semanais.
+- A nota final é individual (não por grupos) e acompanhada de um feedback.
 
 
 <p align="right">(<a href="#readme-top">início</a>)</p>
