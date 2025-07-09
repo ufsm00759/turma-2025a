@@ -12,52 +12,88 @@
   <h1 align="center">Resultados da turma 2025.1</h3>
 </div>
 
+
+
+
+
 ## Grupo "Organização e Bem-Estar"
 
-![](planejacao/banner-planejacao.png)
-O grupo concebeu, planejou e realizou uma ação com público universitário, voltada para promoção do desenvolvimento pessoal e acadêmico.
 
-Na concepção e planejamento, o grupo realizou reuniões com diferentes setores da UFSM (Setor de Apoio Pedagógico do CT,  Núcleo de Educação e Saúde da Coordenadoria de Ações Educacionais, Comunicação CT), dialogando com profissionais de diferentes áreas, validando e refinando a proposta.
-
-Após divulgação e inscrições, foi realizado um encontro com o público, no dia 11/06, das 19h às 21h, com os seguintes momentos: 
-- apresentação sobre desafios da vida universitária, pelo psicólogo Renato Favarin (CRP 07/13998), da CAED
-- compartilhamento de dicas e ferramentas de organização pessoal para estruturar metas, administrar o tempo e reduzir a sobrecarga diária
-- criação de grupo no WhatsApp: desafio de uma semana
-
-
-A ação ofereceu um espaço acolhedor de troca de experiências, estimulando uma vida universitária mais equilibrada, produtiva e saudável.
-
-Alguns registros e produções:
-- [Fotos do encontro](https://drive.google.com/drive/folders/1vbptMloDz9RSY9mdYct3TfxLNYSTxlQz)
-- [Slides](https://www.canva.com/design/DAGmxNJrfQs/iPmnevlYN-7iYO0RWrKr3g/view?utm_content=DAGmxNJrfQs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbbe38ce6c)
-- [Material de apoio](planejacao/MaterialDeApoioPlanejAção-2025.pdf)
-- Relatórios individuais:
-    - [André Paulo Streck Renner](https://github.com/ufsm00759/extensao-2025a-r3nner/) 
-    - [Laura Ferreira](https://github.com/ufsm00759/extensao-2025a-lauraferreira04)
-    - [Mariana Ciervo Borges ](https://github.com/ufsm00759/extensao-2025a-MarianaCiervoB)
+<table>
+  <tr>
+    <td width="30%">
+      <img src="assets/planejacao/polaroid_stack_planejacao.png" alt="Imagens do grupo" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <p>
+        O grupo concebeu, planejou e realizou uma ação com público universitário, voltada para promoção do desenvolvimento pessoal e acadêmico. Na concepção e planejamento, o grupo realizou reuniões com diferentes setores da UFSM (Setor de Apoio Pedagógico do CT, Núcleo de Educação e Saúde da Coordenadoria de Ações Educacionais, Comunicação CT), dialogando com profissionais de diferentes áreas, validando e refinando a proposta.
+      </p>
+      <p>
+        Após divulgação e inscrições, foi realizado um encontro com o público, no dia 11/06, das 19h às 21h, com os seguintes momentos: 
+        <ul>
+          <li>apresentação sobre desafios da vida universitária, pelo psicólogo Renato Favarin (CRP 07/13998), da CAED</li>
+          <li>compartilhamento de dicas e ferramentas de organização pessoal para estruturar metas, administrar o tempo e reduzir a sobrecarga diária</li>
+          <li>criação de grupo no WhatsApp: desafio de uma semana</li>
+        </ul>
+      </p>
+      <p> 
+         A ação ofereceu um espaço acolhedor de troca de experiências, estimulando uma vida universitária mais equilibrada, produtiva e saudável.
+      </p>
+      <p>Alguns registros e produções:</p>
+      <ul>
+        <li><a href="https://drive.google.com/drive/folders/1vbptMloDz9RSY9mdYct3TfxLNYSTxlQz">Fotos do encontro</a></li>
+        <li><a href="https://www.canva.com/design/DAGmxNJrfQs/iPmnevlYN-7iYO0RWrKr3g/view?utm_content=DAGmxNJrfQs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbbe38ce6c">Slides</a></li>
+        <li><a href="assets/planejacao/MaterialDeApoioPlanejAção-2025.pdf">Material de apoio</a></li>
+        <li>Relatórios individuais:
+          <ul>
+            <li><a href="https://github.com/ufsm00759/extensao-2025a-r3nner/">André Paulo Streck Renner</a></li>
+            <li><a href="https://github.com/ufsm00759/extensao-2025a-lauraferreira04">Laura Ferreira</a></li>
+            <li><a href="https://github.com/ufsm00759/extensao-2025a-MarianaCiervoB">Mariana Ciervo Borges</a></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ## Grupo "BNCC Computação"
 
-![](bncccomp/banner-bncccomp.png)
 
-A "BNCC Computação" é um complemento à Base Nacional Comum Curricular, voltado ao desenvolvimento de habilidades relacionadas à Computação na Educação Básica. Sua publicação é de 2022 e traz consigo muitos desafios. Em 2024, o município de Santa Maria passou a formalizar sua implantação no Ensino Fundamental, articulando instituições e profissionais de educação de diferentes níveis, rumo a este objetivo.
+<table>
+  <tr>
+    <td width="30%">
+      <img src="assets/bncccomp/polaroid_stack_bncccomp1.png" alt="Imagens do grupo" width="100%">
+    </td>
+    <td width="70%" valign="top">      
+      <p>
+        A "BNCC Computação" é um complemento à Base Nacional Comum Curricular, voltado ao desenvolvimento de habilidades relacionadas à Computação na Educação Básica. Sua publicação é de 2022 e traz consigo muitos desafios. Em 2024, o município de Santa Maria passou a formalizar sua implantação no Ensino Fundamental, articulando instituições e profissionais de educação de diferentes níveis, rumo a este objetivo.
+      </p>  
+      <p>
+        O grupo interagiu com a equipe do <a href="https://sites.google.com/edu.santamaria.rs.gov.br/ntem-computacao">Núcleo de Tecnologia Educacional Municipal</a>, vinculado à Secretaria de Município da Educação (SMEd) de Santa Maria, com a finalidade de pesquisar e adaptar atividades didáticas para ensino-aprendizagem do pensamento computacional, que é um dos eixos da BNCC Computação.
+      </p>
+      <p>
+        O grupo organizou dois momentos de interação com a equipe do NTEM, na sede do Núcleo. Nesses momentos, desenvolveram atividades abordando conceitos abstratos de Computação (estruturas de dados: matrizes, grafos e árvores), em linguagem acessível e de forma lúdica e desplugada (sem uso do computador), voltadas para anos finais do Ensino Fundamental.
+      </p>
+      Alguns registros e produções:
+      <ul>
+        <li><a href="">Fotos dos encontros</a></li>
+        <li><a href="assets/bncccomp/AtividadesDesplugadasParaAnosFinaisBNCCComputação.pdf">Material de apoio</a></li>
+        <li>Relatórios individuais:</li>
+        <ul>
+          <li><a href="https://github.com/ufsm00759/extensao-2025a-DanielFNasc">Daniel Farias Nascimento</a></li>
+          <li><a href="https://github.com/ufsm00759/extensao-2025a-FranciscoCSJunior">Francisco das Chagas Sousa Júnior</a></li>
+          <li><a href="https://github.com/ufsm00759/extensao-2025a-Guidjy">Guilherme Patrício Pimentel</a></li>
+          <li><a href="https://github.com/ufsm00759/extensao-2025a-JoaoVBC25">João Vitor Bernardi Cordenonsi</a></li>
+          <li><a href="https://github.com/ufsm00759/extensao-2025a-MiguelMironSilva/blob/main/Relatorio_Final.md">Miguel Miron Silva</a></li>
+        </ul>
+      </ul>
+    </td>
+    
+  </tr>
+  
+</table>
 
-O grupo interagiu com a equipe do [Núcleo de Tecnologia Educacional Municipal](https://sites.google.com/edu.santamaria.rs.gov.br/ntem-computacao), vinculado à Secretaria de Município da Educação (SMEd) de Santa Maria, com a finalidade de pesquisar e adaptar atividades didáticas para ensino-aprendizagem do pensamento computacional, que é um dos eixos da BNCC Computação.
-
-O grupo organizou dois momentos de interação com a equipe do NTEM, na sede do Núcleo. Nesses momentos, desenvolveram atividades abordando conceitos abstratos de Computação (estruturas de dados: matrizes, grafos e árvores), em linguagem acessível e de forma lúdica e desplugada (sem uso do computador), voltadas para anos finais do Ensino Fundamental.
-
-
-Alguns registros e produções:
-
-- [Fotos dos encontros]()
-- [Material de apoio](bncccomp/AtividadesDesplugadasParaAnosFinaisBNCCComputação.pdf)
-- Relatórios individuais:
-  - [Daniel Farias Nascimento](https://github.com/ufsm00759/extensao-2025a-DanielFNasc)
-  - [Francisco das Chagas Sousa Júnior](https://github.com/ufsm00759/extensao-2025a-FranciscoCSJunior)
-  - [Guilherme Patrício Pimentel](https://github.com/ufsm00759/extensao-2025a-Guidjy)
-  - [João Vitor Bernardi Cordenonsi](https://github.com/ufsm00759/extensao-2025a-JoaoVBC25)
-  - [Miguel Miron Silva](https://github.com/ufsm00759/extensao-2025a-MiguelMironSilva/blob/main/Relatorio_Final.md)
 
 
 
@@ -66,39 +102,89 @@ Alguns registros e produções:
 Este grupo se dividiu em 3 subgrupos, desenvolvendo soluções para atender diferentes demandas do Jardim Botânico da UFSM na relação com seu público. Foram realizadas várias visitas ao local e reuniões com a equipe diretiva, para levantamento de requisitos e validação de entregas incrementais de soluções.
 
 
-### Automação de processo de agendamento
+### Automação no processo de agendamento
 
 
-O grupo desenvolveu uma solução para automatizar um processo que demanda muito tempo da equipe do Jardim Botânico: gerenciar pedidos de agendamento, com alocação de guias/monitores, envio de mensagens de confirmação e avaliação da visita.
 
-Relatórios individuais:
-- [Thalisson Souza]()
-- [Rafael Nascimento]()
-- [Andrei Hammecher]()
+<table>
+  <tr>
+    <td width="30%">
+      <img src="assets/jbsm/WhatsAppVideo2025-07-08at22.37.23-ezgif.com-optimize.gif" alt="Example image" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <p>
+        O grupo desenvolveu uma solução para automatizar partes de um processo que demanda muito tempo da equipe do Jardim Botânico: gerenciar pedidos de agendamento, alocação de guias/monitores, envio de mensagens de confirmação e avaliação da visita.
+      </p>
+      <p>
+        A solução foi apresentada e validada pela Direção do Jardim Botânico e será implantada incrementalmente a partir do semestre seguinte.
+      </p>      
+      Relatórios individuais:
+      <ul>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-Thalisson-Souza">Thalisson Luz de Souza</a></li>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-rafawagner5">Rafael André Barbosa Wagner</a></li>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-Andrei-Hammacher">Andrei Donel Hammacher</a></li>
+      </ul>      
+    </td>
+  </tr>
+</table>
+
+
 
 ### Visão 360 e visita com GPS
 
-<img src="jbsm/WhatsAppVideo2025-07-04at10.25.21-optimize.gif"  width="180"/>
+
+<table>
+  <tr>
+    <td width="30%">
+      <img src="assets/jbsm/WhatsAppVideo2025-07-04at10.25.21-optimize.gif" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <p>
+        O grupo criou uma solução de realidade virtual que permite uma visão 360 graus de diversos pontos de interesse do Jardim Botânico: telhado verde, jardim sensorial, trilha do bambuzal, araucárias, etc. A visualização é controlada pela movimentação do smartphone e seus sensores, permitindo aos usuários visualizar pontos de interesse como se estivessem presentes no jardim. Essa solução está <b>operacional e disponível ao público</b> em: <a href="https://jbsm.inf.ufsm.br/360/">https://jbsm.inf.ufsm.br/360/</a> (para uso em smartphone)
+      </p>
+      <p>
+        Também foi criado um protótipo para visita guiada por GPS, com mapa do Jardim Botânico e orientação por bússola do smartphone. O protótipo está em: <a href="https://jbsm.inf.ufsm.br/GPS/">https://jbsm.inf.ufsm.br/GPS/</a> (para uso no local, com smartphone)
+      </p>
+      <p>
+      Relatórios individuais:
+      <ul>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-Agentew04">Rodrigo Appelt</a></li>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-ArthurLeitaoEtges">Arthur Leitão Etges</a></li>
+      </ul>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
-O grupo criou uma solução de realidade virtual que permite uma visão 360 graus de diversos pontos de interesse do Jardim Botânico: telhado verde, jardim sensorial, trilha do bambuzal, araucárias, etc. A visualização é controlada pela movimentação do smartphone e seus sensores, permitindo aos usuários visualizar pontos de interesse como se estivessem presentes no jardim. Essa solução está **operacional e disponível ao público** em: https://jbsm.inf.ufsm.br/360/ (para uso em smartphone)
-
-Também foi criado um protótipo para visita guiada por GPS, com mapa do Jardim Botânico e orientação por bússola do smartphone. O protótipo está em: https://jbsm.inf.ufsm.br/GPS/ (para uso no local, com smartphone)
-
-Relatórios individuais:
-- [Rodrigo Appelt](https://github.com/ufsm00759/extensao-2025a-Agentew04)
-- [Arthur Leitão Etges](https://github.com/ufsm00759/extensao-2025a-ArthurLeitaoEtges)
 
 
 ### Placas com QR Code e aplicativo web de apoio à visitação
 
-O grupo trabalhou estendendo as funcionalidades de um aplicativo web desenvolvido anteriormente, em 2023, que disponibilizava um mapa interativo do Jardim Botânico. Esse aplicativo foi estendido com informações detalhadas sobre espécies disponíveis no acervo do jardim, geolocalizadas e acessíveis via placas individuais com QR Code, instaladas em 10 pontos do jardim (impressas com recursos próprios).
 
-Pensando no futuro aumento de escala da solução, o grupo também desenvolveu um software para geração automatizada de placas prontas para impressão, contendo QR Codes e informações de cada espécie.
+<table>
+  <tr>
+    <td width="30%">
+      <img src="assets/jbsm/polaroid_stack_jbsm.png" alt="Example image" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <p>
+        O grupo trabalhou estendendo as funcionalidades de um aplicativo web desenvolvido anteriormente, em 2023, que disponibilizava um mapa interativo do Jardim Botânico. Esse aplicativo foi estendido com informações detalhadas sobre espécies disponíveis no acervo do jardim, geolocalizadas e acessíveis via placas individuais com QR Code, instaladas em 10 pontos do jardim (impressas com recursos próprios).
+      </p>
+      <p>
+        Pensando no futuro aumento de escala da solução, o grupo também desenvolveu um software para geração automatizada de placas prontas para impressão, contendo QR Codes e informações de cada espécie.
+      </p>
+      <p>
+        O grupo também esteve presente no Viva o Campus do domingo 08/06, apresentando o trabalho para visitantes e promovendo uma "caça ao tesouro", com brindes para quem fizesse fotos dos pontos com QR Codes.
+      </p>
+      Relatórios individuais:
+      <ul>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-Enzo">Enzo Santin da Silveira</a></li>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-LuanStreck">Luan Tiago Streck</a></li>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-SamSteffler">Samuel Steffler</a></li>
+        <li><a href="https://github.com/ufsm00759/extensao-2025a-TiagoSteffler.git">Tiago Steffler</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-
-Relatórios individuais:
-- [Enzo Santin da Silveira](https://github.com/ufsm00759/extensao-2025a-Enzo)
-- [Luan Tiago Streck](https://github.com/ufsm00759/extensao-2025a-LuanStreck)
-- [Samuel Steffler](https://github.com/ufsm00759/extensao-2025a-SamSteffler)
-- [Tiago Steffler](https://github.com/ufsm00759/extensao-2025a-TiagoSteffler.git)
