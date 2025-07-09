@@ -16,6 +16,7 @@
 
 
 
+
 ## Grupo "Organização e Bem-Estar"
 
 
@@ -26,7 +27,7 @@
     </td>
     <td width="70%" valign="top">
       <p>
-        O grupo concebeu, planejou e realizou uma ação com público universitário, voltada para promoção do desenvolvimento pessoal e acadêmico. Na concepção e planejamento, o grupo realizou reuniões com diferentes setores da UFSM (Setor de Apoio Pedagógico do CT, Núcleo de Educação e Saúde da Coordenadoria de Ações Educacionais, Comunicação CT), dialogando com profissionais de diferentes áreas, validando e refinando a proposta.
+        O grupo concebeu, planejou e realizou uma ação com público universitário diverso, voltada para promoção do desenvolvimento pessoal e acadêmico. Na concepção e planejamento, o grupo realizou reuniões com diferentes setores da UFSM (<a href="https://www.ufsm.br/unidades-universitarias/ct/unidade-de-apoio-pedagogico-uap-ct">Setor de Apoio Pedagógico – SAP/CT</a>, área de <a href="https://www.ufsm.br/pro-reitorias/prograd/caed/saude-mental">Educação-Saúde</a> da <a href="https://www.ufsm.br/pro-reitorias/prograd/caed">Coordenadoria de Ações Educacionais – CAED</a>, <a href="https://www.ufsm.br/unidades-universitarias/ct/subdivisao-comunicacao-ct">Subdivisão de Comunicação – COM/CT</a>), dialogando com profissionais de diferentes áreas, validando e refinando a proposta.
       </p>
       <p>
         Após divulgação e inscrições, foi realizado um encontro com o público, no dia 11/06, das 19h às 21h, com os seguintes momentos: 
@@ -99,8 +100,9 @@
 
 ## Grupo "Jardim Botânico"
 
-Este grupo se dividiu em 3 subgrupos, desenvolvendo soluções para atender diferentes demandas do Jardim Botânico da UFSM na relação com seu público. Foram realizadas várias visitas ao local e reuniões com a equipe diretiva, para levantamento de requisitos e validação de entregas incrementais de soluções.
+Este grupo se dividiu em 3 subgrupos, desenvolvendo soluções para atender diferentes demandas do <a href="https://www.ufsm.br/orgaos-suplementares/jardim-botanico">Jardim Botânico da UFSM</a> na relação com seu público. Foram realizadas várias visitas ao local e reuniões com a equipe diretiva, para levantamento de requisitos e validação de entregas incrementais de soluções.
 
+O grupo contou com o apoio do [Núcleo de Ciência da Computação](https://www.ufsm.br/unidades-universitarias/ct/ncc) do CT, que viabilizou a criação do subdomínio jbsm.inf.ufsm.br.
 
 ### Automação no processo de agendamento
 
@@ -172,7 +174,10 @@ Este grupo se dividiu em 3 subgrupos, desenvolvendo soluções para atender dife
         O grupo trabalhou estendendo as funcionalidades de um aplicativo web desenvolvido anteriormente, em 2023, que disponibilizava um mapa interativo do Jardim Botânico. Esse aplicativo foi estendido com informações detalhadas sobre espécies disponíveis no acervo do jardim, geolocalizadas e acessíveis via placas individuais com QR Code, instaladas em 10 pontos do jardim (impressas com recursos próprios).
       </p>
       <p>
-        Pensando no futuro aumento de escala da solução, o grupo também desenvolveu um software para geração automatizada de placas prontas para impressão, contendo QR Codes e informações de cada espécie.
+      A solução está <b>operacional e disponível ao público</b> em: <a href="https://jbsm.inf.ufsm.br/acervo/">https://jbsm.inf.ufsm.br/acervo/</a>
+      </p>
+      <p>
+        Pensando no futuro aumento de escala da solução, o grupo também desenvolveu um software para geração automatizada de arquivos prontos para impressão, contendo QR Codes e informações de cada espécie.
       </p>
       <p>
         O grupo também esteve presente no Viva o Campus do domingo 08/06, apresentando o trabalho para visitantes e promovendo uma "caça ao tesouro", com brindes para quem fizesse fotos dos pontos com QR Codes.

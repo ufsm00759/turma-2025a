@@ -25,8 +25,9 @@
 
 
 ## Sobre a disciplina
+ - Código: UFSM00759
  - Professora: Andrea Schwertner Charão (andrea@inf.ufsm.br, sala 376 CT Anexo B)  
- - Horários: quartas, das 10:30 às 12:10 e sextas, das 13:30 às 15:10
+ - Horários: quartas, das 10:30 às 12:30 e sextas, das 13:30 às 15:30
  - Sala: 315 - CT Prédio Principal
  - [Ementa](https://www.ufsm.br/ementario/disciplinas/UFSM00759): informações institucionais sobre a disciplina
  - [Plano de ensino](https://portal.ufsm.br/documentos/publico/documento.html?id=15361354): planejamento para este semestre, refinado colaborativamente com a turma
@@ -37,6 +38,9 @@
 ## Resultados
 
 Veja [aqui](results) as produções individuais e coletivas da turma.
+
+
+<p align="right">(<a href="#readme-top">início</a>)</p>
 
 ## Aulas
 
@@ -116,7 +120,7 @@ Veja [aqui](results) as produções individuais e coletivas da turma.
 <td>Qua</td>
 <td>2</td>
 <td><ul>
-<li>Computação na Educação Básica: BNCC Computação</li>
+<li>Computação na Educação Básica: BNCC Computação. Apresentações de buscas sobre o tema (Daniel, Miguel, Francisco, Guilherme)</li>
 </ul></td>
 </tr>
 
@@ -155,7 +159,7 @@ Veja [aqui](results) as produções individuais e coletivas da turma.
 <td>2</td>
 <td><ul>
 
-<li>Reuniões separadas com os 3 grupos: Exploratório, BNCC Computação e Jardim Botânico</li>
+<li>Aspectos da formulação, implementação e avaliação de ações. Reuniões separadas com os 3 grupos: Exploratório, BNCC Computação e Jardim Botânico</li>
 </ul></td>
 </tr>
 
@@ -193,7 +197,7 @@ Veja [aqui](results) as produções individuais e coletivas da turma.
 <td>2</td>
 <td><ul>
 
-<li>Reunião do grupo BNCC Computação (13h30) e com sub-grupo do Jardim Botânico (14h30)</li>
+<li>Reunião do grupo BNCC Computação (13h30) e com sub-grupo do Jardim Botânico (14h30). Demais grupos desenvolvendo atividades da próxima entrega.</li>
 </ul></td>
 </tr>
 
@@ -211,6 +215,17 @@ Veja [aqui](results) as produções individuais e coletivas da turma.
 
 <tr>
 <td align="right">14</td>
+<td>30/04/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reuniões estendidas em função da sexta-feira não-letiva (02/05).</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">15</td>
 <td>07/05/2025</td>
 <td>Qua</td>
 <td>2</td>
@@ -220,129 +235,193 @@ Veja [aqui](results) as produções individuais e coletivas da turma.
 </tr>
 
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td>09/05/2025</td>
 <td>Sex</td>
 <td>2</td>
 <td><ul>
 <li>Reunião com o grupo: (1) Jardim Botânico (meet pela manhã com Direção do JB) (2) Organização e bem-estar (CAED, Educação e Saúde).</li>
-<li> Grupo BNCC Computação desenvolvendo atividades para a próxima entrega.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">16</td>
-<td>14/05/2025</td>
-<td>Qua</td>
-<td>2</td>
-<td><ul>
-<li>Reuniões com os grupos: (1) Jardim Botânico (2) Organização e bem-estar.</li>
-<li> Grupo BNCC Computação desenvolvendo atividade para próxima entrega.</li>
+<li>Grupo BNCC Computação desenvolvendo atividades para a próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">17</td>
-<td>16/05/2025</td>
-<td>Sex</td>
+<td>14/05/2025</td>
+<td>Qua</td>
 <td>2</td>
 <td><ul>
-<li>Reunião com o grupo BNCC Computação (NTEM).</li>
-<li> Demais grupos desenvolvendo atividades para a próxima entrega.</li>
+<li>Reuniões com os grupos: (1) Jardim Botânico (2) Organização e bem-estar.</li>
+<li>Grupo BNCC Computação desenvolvendo atividade para próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">18</td>
-<td>21/05/2025</td>
-<td>Qua</td>
+<td>16/05/2025</td>
+<td>Sex</td>
 <td>2</td>
 <td><ul>
-<li>Reuniões com os grupos: (1) Organização e bem-estar (Setor de Comunicação CT) (2) Jardim Botânico.</li>
-<li> Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
+<li>Apresentação do grupo BNCC Computação no NTEM.</li>
+<li>Demais grupos desenvolvendo atividades para a próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">19</td>
-<td>23/05/2025</td>
-<td>Sex</td>
+<td>21/05/2025</td>
+<td>Qua</td>
 <td>2</td>
 <td><ul>
-<li>Reuniões com os grupos: (1) Organização e bem-estar (2) BNCC Computação.</li>
-<li> Grupo Jardim Botânico desenvolvendo atividade para a próxima entrega.</li>
+<li>Reuniões com os grupos: (1) Organização e bem-estar (Setor de Comunicação CT) (2) Jardim Botânico.</li>
+<li>Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">20</td>
-<td>28/05/2025</td>
-<td>Qua</td>
+<td>23/05/2025</td>
+<td>Sex</td>
 <td>2</td>
 <td><ul>
-<li>Reuniões com os grupos: (1) Jardim Botânico (3 subgrupos) (2) Organização e bem-estar.</li>
-<li> Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
+<li>Reuniões com os grupos: (1) Organização e bem-estar (2) BNCC Computação.</li>
+<li>Grupo Jardim Botânico desenvolvendo atividade para a próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">21</td>
-<td>30/05/2025</td>
-<td>Sex</td>
+<td>28/05/2025</td>
+<td>Qua</td>
 <td>2</td>
 <td><ul>
-<li>Reunião com o grupo: BNCC Computação.</li>
-<li> Demais grupos desenvolvendo atividades da próxima entrega.</li>
+<li>Reuniões com os grupos: (1) Jardim Botânico (3 subgrupos) (2) Organização e bem-estar.</li>
+<li>Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">22</td>
-<td>04/06/2025</td>
-<td>Qua</td>
+<td>30/05/2025</td>
+<td>Sex</td>
 <td>2</td>
 <td><ul>
-<li>Reuniões com os grupos: (1) Organização e bem-estar (2) Jardim Botânico (3 subgrupos).</li>
-<li> Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
+<li>Reunião com o grupo: BNCC Computação.</li>
+<li>Demais grupos desenvolvendo atividades da próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">23</td>
-<td>06/06/2025</td>
-<td>Sex</td>
+<td>04/06/2025</td>
+<td>Qua</td>
 <td>2</td>
 <td><ul>
-<li>Reunião com o grupo: BNCC Computação.</li>
-<li> Demais grupos desenvolvendo atividades da próxima entrega.</li>
+<li>Reuniões com os grupos: (1) Organização e bem-estar (2) Jardim Botânico (3 subgrupos).</li>
+<li>Grupo BNCC Computação desenvolvendo atividade para a próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">24</td>
-<td>11/06/2025</td>
-<td>Qua</td>
+<td>06/06/2025</td>
+<td>Sex</td>
 <td>2</td>
 <td><ul>
-<li>Reunião com o grupo: Organização e bem-estar (preparatória de manhã, evento à noite).</li>
-<li> Demais grupos desenvolvendo atividades para as próximas entregas.</li>
+<li>Reunião com o grupo: BNCC Computação.</li>
+<li>Demais grupos desenvolvendo atividades da próxima entrega.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">25</td>
+<td>11/06/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Reunião com o grupo: Organização e bem-estar (preparatória de manhã, evento à noite).</li>
+<li>Demais grupos desenvolvendo atividades para as próximas entregas.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">26</td>
+<td>11/06/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li>Evento do grupo Organização e bem-estar, turno da noite.</li>
+<li>Demais grupos desenvolvendo atividades para as próximas entregas.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">27</td>
 <td>13/06/2025</td>
 <td>Sex</td>
 <td>2</td>
 <td><ul>
-<li>Reunões com os grupos: (1) Jardim Botânico (manhã, no JB) (2) BNCC Computação (tarde).</li>
-<li> Grupo Organização e bem-estar desenvolvendo atividade para a próxima entrega.</li>
+<li>Manhã: reunião com o grupo Jardim Botânico, na sede do JB.</li>
+<li>Demais grupos desenvolvendo atividades para a próxima entrega.</li>
 </ul></td>
 </tr>
 
 
+<tr>
+<td align="right">28</td>
+<td>13/06/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Tarde: reunião com o grupo BNCC Computação.</li>
+<li>Demais grupos desenvolvendo atividades para a próxima entrega.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">-</td>
+<td>18/06/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+<li><a href="https://www.ufsm.br/2025/06/17/nota-sobre-suspensao-de-atividades-na-ufsm-sede-e-campus-cachoeira-do-sul-nesta-quarta-feira-18">Suspensão de atividades na UFSM</a> em razão do alto volume de chuva.</li>
+</ul></td>
+</tr>
 
 
+<tr>
+<td align="right">-</td>
+<td>23/06/2025</td>
+<td>Seg</td>
+<td>2</td>
+<td><ul>
+<li>Apresentação do grupo BNCC Computação no NTEM.</li>
+
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">29</td>
+<td>25/06/2025</td>
+<td>Qua</td>
+<td>2</td>
+<td><ul>
+
+<li>Apresentações finais dos projetos para a turma (<a href="classes/29">fotos</a>)</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">30</td>
+<td>27/06/2025</td>
+<td>Sex</td>
+<td>2</td>
+<td><ul>
+<li>Redação e avaliação dos relatórios finais individuais.</li>
+</ul></td>
+</tr>
 
 </tbody>
 </table>
@@ -390,7 +469,7 @@ Veja [aqui](results) as produções individuais e coletivas da turma.
 ### Computação na Educação Básica
 
 - Ministério da Educação. Base Nacional Comum Curricular. http://bncc.mec.gov.br/
-- Computação na Educação Básica: Complemento à BNCC. https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf
+- Computação na Educação Básica: Complemento à BNCC. https://www.gov.br/mec/pt-br/escolas-conectadas/BNCCComputaoCompletodiagramado.pdf | Também disponível em: https://observatorio.movimentopelabase.org.br/wp-content/uploads/2023/10/anexo-ao-parecer-cneceb-no-2-2022-bncc-computacao.pdf
 - BNCC em tabela: https://docs.google.com/spreadsheets/d/1sPyUaPHLMaEbIqmOcbTPN5_zaqOqPlsx7Cn0TCbWRDI/edit?usp=sharing
 
 ### Outros
