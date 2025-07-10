@@ -78,7 +78,7 @@
       </p>
       Alguns registros e produções:
       <ul>
-        <li><a href="">Fotos dos encontros</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1t5tKSlV_2ojpdCH7k-QmRGaV--7RlhQQ?usp=sharing">Fotos dos encontros</a></li>
         <li><a href="assets/bncccomp/AtividadesDesplugadasParaAnosFinaisBNCCComputação.pdf">Material de apoio</a></li>
         <li>Relatórios individuais:</li>
         <ul>
