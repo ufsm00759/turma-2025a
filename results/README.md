@@ -64,7 +64,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="assets/bncccomp/polaroid_stack_bncccomp2.png" alt="Imagens do grupo" width="100%">
+      <img src="assets/bncccomp/polaroid_stack_bncccomp3.png" alt="Imagens do grupo" width="100%">
     </td>
     <td width="70%" valign="top">      
       <p>
