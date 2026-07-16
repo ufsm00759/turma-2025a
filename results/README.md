@@ -1,4 +1,4 @@
-< <a href="..">Voltar</a><br />
+< <a href="../README.md">Voltar</a><br />
 <a name="readme-top"></a>
 <div align="center">
   <a href="http://www.ufsm.br/">Universidade Federal de Santa Maria</a><br>
@@ -64,7 +64,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="assets/bncccomp/polaroid_stack_bncccomp1.png" alt="Imagens do grupo" width="100%">
+      <img src="assets/bncccomp/polaroid_stack_bncccomp2.png" alt="Imagens do grupo" width="100%">
     </td>
     <td width="70%" valign="top">      
       <p>
